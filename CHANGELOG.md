@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-03-19)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`6417ebc`](https://github.com/stdlib-js/stdlib/commit/6417ebc2af5c3c066ce82f90aeab1ec0f8f43905) - **bench:** update random value generation [(#6199)](https://github.com/stdlib-js/stdlib/pull/6199) _(by Harsh)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Harsh
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2024-07-28)
