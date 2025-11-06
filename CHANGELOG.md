@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-11-06)
 
 <section class="commits">
 
@@ -12,8 +12,9 @@
 
 <details>
 
--   [`76ad4ca`](https://github.com/stdlib-js/stdlib/commit/76ad4ca02df8a1e1492d3428457a44717e866fc2) - **docs:** replace manual `for` loop in examples [(#6623)](https://github.com/stdlib-js/stdlib/pull/6623) _(by Harsh, Athan Reines, hrshya, stdlib-bot)_
--   [`6417ebc`](https://github.com/stdlib-js/stdlib/commit/6417ebc2af5c3c066ce82f90aeab1ec0f8f43905) - **bench:** update random value generation [(#6199)](https://github.com/stdlib-js/stdlib/pull/6199) _(by Harsh)_
+-   [`963250c`](https://github.com/stdlib-js/stdlib/commit/963250c88ab495f565ca54e484bda5c5cc3085d1) - **chore:** add structured package data for `math/base/special/floor10` [(#8416)](https://github.com/stdlib-js/stdlib/pull/8416) _(by Manvith M)_
+-   [`76ad4ca`](https://github.com/stdlib-js/stdlib/commit/76ad4ca02df8a1e1492d3428457a44717e866fc2) - **docs:** replace manual `for` loop in examples [(#6623)](https://github.com/stdlib-js/stdlib/pull/6623) _(by Harsh Yadav, Athan Reines, hrshya, stdlib-bot)_
+-   [`6417ebc`](https://github.com/stdlib-js/stdlib/commit/6417ebc2af5c3c066ce82f90aeab1ec0f8f43905) - **bench:** update random value generation [(#6199)](https://github.com/stdlib-js/stdlib/pull/6199) _(by Harsh Yadav)_
 
 </details>
 
@@ -28,8 +29,8 @@
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Harsh
--   hrshya
+-   Harsh Yadav
+-   Manvith M
 
 </section>
 
