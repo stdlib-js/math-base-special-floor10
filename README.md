@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import floor10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor10@esm/index.mjs';
+import floor10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor10@v0.3.1-esm/index.mjs';
 ```
 
 #### floor10( x )
@@ -120,7 +120,7 @@ v = floor10( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import floor10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor10@esm/index.mjs';
+import floor10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor10@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
